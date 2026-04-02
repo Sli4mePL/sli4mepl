@@ -1,0 +1,2 @@
+_github-pages-challenge-Sli4mePL
+.sli4mepl.pl
